@@ -1,12 +1,6 @@
  # IbetuFarm project
-**IbetuFarm**
-# Constra - Free bootstrap construction template
 
-**Welcome to Ibetu Mixed Farm: Your Online Gateway to Freshness!**
-
-
-
-**Ibetu Mixed Farm is a vibrant website showcasing the bounty of our Akwa Ibom-based farm. We cultivate a diverse range of crops and livestock using sustainable practices, bringing you the freshest, highest-quality produce directly from our land to your table. Explore our seasonal offerings, learn about our commitment to the environment and community, and order farm-fresh goodness delivered directly to your doorstep. This website is built with(_Constra - Free bootstrap construction template,👉🏻[View Live Preview](https://demo.themefisher.com/constra/)). I was able to read an understand to the best of my knowledge and edit this template to my fittings**
+**Ibetu Mixed Farm is a vibrant website showcasing the bounty of an Akwa Ibom-based farm. We cultivate a diverse range of crops and livestock using sustainable practices, bringing you the freshest, highest-quality produce directly from our land to your table. Explore our seasonal offerings, learn about our commitment to the environment and community, and order farm-fresh goodness delivered directly to your doorstep. This website is built with(_Constra - Free bootstrap construction template,👉🏻[View Live Preview](https://demo.themefisher.com/constra/)). I was able to read an understand to the best of my knowledge and edit this template to my fittings**
 
 
 <!-- demo -->
